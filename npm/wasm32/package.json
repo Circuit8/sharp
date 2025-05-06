@@ -32,8 +32,5 @@
   },
   "dependencies": {
     "@emnapi/runtime": "^1.4.0"
-  },
-  "cpu": [
-    "wasm32"
-  ]
+  }
 }
